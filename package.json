@@ -1,0 +1,24 @@
+{
+  "name": "ES6-Practice",
+  "version": "1.0.0",
+  "description": "ES6是JavaScript预言的下一代标准，其目标是使JavaScript语言可用于编写复杂的大型应用程序，成为企业级开发语言",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TrustTheBoy@github.com/TrustTheBoy/ES6-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrustTheBoy/ES6-Practice/issues"
+  },
+  "homepage": "https://github.com/TrustTheBoy/ES6-Practice#readme"
+}
