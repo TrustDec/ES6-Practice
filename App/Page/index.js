@@ -1,5 +1,5 @@
-'use strict';
-import * as exportDome from './exportDome';
+
+import  exportDome from './exportDome';
 console.log(A);
 console.log(b);
 
