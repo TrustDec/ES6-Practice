@@ -1,4 +1,5 @@
 'use strict';
-let name = 'Scott';
-let greeting = `hello ${name}`;
-console.log(greeting);
+import * as exportDome from './exportDome';
+console.log(A);
+console.log(b);
+
